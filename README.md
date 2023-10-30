@@ -15,6 +15,7 @@ El objetivo principal de este dashboard es proporcionar a los anfitriones de Air
 ## Capturas de Pantalla
 
 ![image](https://github.com/Robertogag/Visualizacion-de-Datos-con-Tableau/blob/main/Screenshot%202023-10-30%20085816.png?raw=true)
+![image](https://github.com/Robertogag/Visualizacion-de-Datos-con-Tableau/blob/main/Screenshot%202023-10-30%20092714.png)
 
 
 

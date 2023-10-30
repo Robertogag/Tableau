@@ -10,16 +10,11 @@ El objetivo principal de este dashboard es proporcionar a los anfitriones de Air
 
 - 🏠 **Detalle de Propiedades:** Cuando se selecciona una zona en el mapa, se revela un mundo de información detallada. Los usuarios pueden acceder a datos específicos sobre propiedades en esa ubicación, como el promedio de precios por tipo de habitación, la disponibilidad de propiedades, las comodidades ofrecidas y las calificaciones de los huéspedes. Toda esta información es esencial para que los anfitriones tomen decisiones sólidas sobre sus alquileres de Airbnb.
 
+**Nota Importante:** Los datos necesarios para la visualización se encuentran en el archivo `.twbx`, que contiene tanto la estructura del dashboard como los datos incrustados en el mismo. Los usuarios deben abrir este archivo con Tableau Desktop o Tableau Reader para interactuar con el dashboard.
+
 ## Capturas de Pantalla
 
 ![image](https://github.com/Robertogag/Visualizacion-de-Datos-con-Tableau/blob/main/Screenshot%202023-10-30%20085816.png?raw=true)
 
-
-## Cómo Usar
-
-Los datos necesarios para el funcionamiento de este dashboard se encuentran en dos archivos CSV que puedes encontrar en el directorio "data" de este repositorio:
-
-- `airbnb-listings Madrid.csv`
-- `Nveces_alquilado.csv`
 
 

@@ -12,7 +12,8 @@ El objetivo principal de este dashboard es proporcionar a los anfitriones de Air
 
 ## Capturas de Pantalla
 
-(Inserta aquí capturas de pantalla que muestren el aspecto y la funcionalidad del dashboard. Esto ayudará a los usuarios a visualizar cómo se ve y cómo pueden interactuar con él).
+![image](https://github.com/Robertogag/Visualizacion-de-Datos-con-Tableau/blob/main/Screenshot%202023-10-30%20085816.png?raw=true)
+
 
 ## Cómo Usar
 
